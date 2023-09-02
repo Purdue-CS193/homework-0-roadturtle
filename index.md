@@ -41,4 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - This class is easy.
 - GitHub is fun.
 - Why is this class so late :/
+- My other website is better [Link](https://roadturtle.github.io)
 

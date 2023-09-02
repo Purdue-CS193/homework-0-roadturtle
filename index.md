@@ -41,5 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - This class is easy.
 - GitHub is fun.
 - Why is this class so late :/
-- My other website is better [Link](https://roadturtle.github.io)
+- My other website is better [Chat Room](https://roadturtle.github.io) (Heroku no longer offers free dyno hosting so it no longer functions but is still cooler)
 
